@@ -31,4 +31,12 @@ Through this challenge, I aim to build the mindset and skillset required to thri
 Inspired by the AI-Native Era book, especially the opening chapter:
 “Welcome to the AI-Native World”
 
+### Start tasks 🧠
+
+- **Task 1:** Learn AI-Driven Development, understand October 2025 AI Turning Point, key concepts (AI agents, EvDD, TDD, productivity), and answer self-test MCQs.
+-   
+- **Task 2:** Official submission: theory + practical with screenshots, submit PDF or .md, MCQs answer instructions.  
+  
+
+
 Thank you! 🙏
